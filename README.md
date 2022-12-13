@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigoriboldi
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, R, SQL and Spark
+- 🌱 I’m currently a Data Scientist working for GAVB, a Grupo Boticário's company
 - 💞️ I’m looking to collaborate on Data Science projects
 
 <!---
